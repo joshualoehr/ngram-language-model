@@ -1,9 +1,5 @@
 #!/bin/env python
 
-###############################################################################
-# CSCI 404 - Assignment 3 - Josh Loehr & Robin Cosbey - language_model.py     #
-###############################################################################
-
 import argparse
 from itertools import product
 import math
