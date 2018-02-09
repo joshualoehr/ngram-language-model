@@ -7,6 +7,8 @@ Note: the `LanguageModel` class expects to be given data which is already tokeni
 1. punctuation is removed
 2. each sentence is on its own line  
 
+See the `data/` directory for examples.
+
 
 ```
 usage: N-gram Language Model [-h] --data DATA --n N [--laplace LAPLACE] [--num NUM]
